@@ -1,0 +1,7 @@
+This code creates an animated graph to visualize life expectancy trends for various countries from 2000 to 2015. Using the p5.js library, it loads life expectancy data from a CSV file and dynamically plots the data for each country on a canvas. The graph has a responsive layout with labeled axes, where the x-axis represents the years, and the y-axis represents life expectancy values. The animation gradually reveals the life expectancy data for each country, one year at a time, before transitioning to the next country. Each country’s life expectancy values are plotted as a line graph, with red circles marking individual data points. The graph updates continuously, with smooth transitions and gradual plotting of points. The canvas size adjusts automatically based on the window size, ensuring a consistent display. This visualization helps to compare life expectancy trends over time across different countries, allowing users to observe patterns and changes in global health data.
+
+
+
+
+
+
